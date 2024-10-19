@@ -7,6 +7,9 @@ name = "pypi"
 langchain-core = "*"
 langchain-pinecone = "*"
 langchain-community = "*"
+python-dotenv = "*"
+langchain-openai = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
