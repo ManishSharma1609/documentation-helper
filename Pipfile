@@ -12,6 +12,7 @@ langchain-openai = "*"
 beautifulsoup4 = "*"
 streamlit = "*"
 streamlit-chat = "*"
+firecrawl-py = "*"
 
 [dev-packages]
 
