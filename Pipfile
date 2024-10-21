@@ -10,6 +10,8 @@ langchain-community = "*"
 python-dotenv = "*"
 langchain-openai = "*"
 beautifulsoup4 = "*"
+streamlit = "*"
+streamlit-chat = "*"
 
 [dev-packages]
 
