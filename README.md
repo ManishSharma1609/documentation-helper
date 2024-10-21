@@ -5,6 +5,9 @@ A repository for learning LangChain by building a generative ai application.
 This is a web application is using a Pinecone as a vectorsotre and answers questions about LangChain 
 (sources from LangChain official documentation). 
 
+![ezgif-6-f2e24589ff](https://github.com/user-attachments/assets/340def68-0c2c-468d-9728-33208b3e1666)
+
+
 ## Tech Stack
 Client: Streamlit
 
